@@ -15,7 +15,7 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 - 👯 I’m looking to collaborate on creating and devloping framework
 - 🤔 I’m looking for help with Ethical Hacking
 - 💬 Ask me about java
-- 📫 How to reach me: juduraman@gmal.com
+- 📫 How to reach me: juduraman@gmail.com
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: Traveler
 

@@ -21,5 +21,5 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![jud-ahmed](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
 

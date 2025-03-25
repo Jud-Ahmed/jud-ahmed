@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**Jud-Ahmed/jud-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Jud 👋
 
-Here are some ideas to get you started:
+I'm a Software Tester learning Cybersecurity and Ethical Hacking.  
+- 🔹 Passionate about automation and security  
+- 🔹 Learning new technologies every day  
+- 🔹 Based in Minneapolis, MN  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+- 🔭 I’m currently working on HRM
+- 🌱 I’m currently learning Cybersecurity and Ethical Hacking.  
+- 👯 I’m looking to collaborate on creating and devloping framework
+- 🤔 I’m looking for help with Ethical Hacking
+- 💬 Ask me about java
+- 📫 How to reach me: juduraman@gmal.com
+- 😄 Pronouns: HIM
+- ⚡ Fun fact: Traveler
 -->

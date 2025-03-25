@@ -18,4 +18,9 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 - 📫 How to reach me: juduraman@gmal.com
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: Traveler
+
+
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
 -->

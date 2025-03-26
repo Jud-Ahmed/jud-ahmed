@@ -48,6 +48,9 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge)](https://your-portfolio.com)
 
+## 🐍 GitHub Contribution Snake
+
+![github contribution grid snake animation](https://github.com/jud-ahmed/jud-ahmed/blob/output/github-contribution-grid-snake.svg)
 
 
 

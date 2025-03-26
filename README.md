@@ -43,15 +43,15 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jud-ahmed&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=jud-ahmed&color=blue)
 ## 🔗 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jud)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge)](https://jud-ahmed.com)
 
 ## 🐍 GitHub Contribution Snake
 
 ![github contribution grid snake animation](https://github.com/jud-ahmed/jud-ahmed/blob/output/github-contribution-grid-snake.svg)
-![github contribution grid snake animation](https://github.com/YOUR_GITHUB_USERNAME/jud-ahmedblob/output/github-contribution-grid-snake-white.svg)
+![github contribution grid snake animation](https://github.com/jud-ahmed/jud-ahmedblob/output/github-contribution-grid-snake-white.svg)
 
 
 

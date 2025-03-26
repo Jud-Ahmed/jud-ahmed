@@ -43,6 +43,12 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+## 🔗 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge)](https://your-portfolio.com)
 
 
 

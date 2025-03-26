@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 # Hello, I'm Jud 👋
 
@@ -49,8 +47,6 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 ## 🔗 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge)](https://your-portfolio.com)
-
-
 
 
 

@@ -42,7 +42,7 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jud-ahmed&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 ## 🔗 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
@@ -51,6 +51,7 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 ## 🐍 GitHub Contribution Snake
 
 ![github contribution grid snake animation](https://github.com/jud-ahmed/jud-ahmed/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/YOUR_GITHUB_USERNAME/jud-ahmedblob/output/github-contribution-grid-snake-white.svg)
 
 
 

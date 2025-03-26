@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
@@ -14,10 +14,12 @@ jobs:
           github_user_name: jud-ahmed
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v2
+
+      - uses: actions/upload-artifact@v3  # ✅ Updated from v2 to v3
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
+
       - name: Push to GitHub
         run: |
           git config --global user.name "github-actions[bot]"

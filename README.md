@@ -51,7 +51,9 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 ## 🐍 GitHub Contribution Snake
 
 ![GitHub Contribution Snake](https://github.com/YOUR_GITHUB_USERNAME/jud-ahmed/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <img src="my-snake/my-snake.svg" alt="My Snake Animation" />
+</div>
 <p align="center">
   <span style="color:red; font-size:24px;">
     <blink> 🔥 I'm a QA Tester & Developer! 🔥 </blink>

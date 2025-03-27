@@ -70,13 +70,11 @@
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jud-ahmed&show_icons=true&theme=dark)
 
 
 <p align="center">
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jud-ahmed&show_icons=true&theme=dark)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jud-ahmed&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jud-ahmed&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">

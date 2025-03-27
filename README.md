@@ -50,7 +50,7 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 
 ## 🐍 GitHub Contribution Snake
 
-![github contribution grid snake animation](https://github.com/jud-ahmed/jud-ahmedblob/output/github-contribution-grid-snake-white.svg)
+![GitHub Contribution Snake](https://github.com/YOUR_GITHUB_USERNAME/jud-ahmed/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <span style="color:red; font-size:24px;">

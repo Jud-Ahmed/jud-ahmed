@@ -53,5 +53,10 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 ![github contribution grid snake animation](https://github.com/jud-ahmed/jud-ahmed/blob/output/github-contribution-grid-snake.svg)
 ![github contribution grid snake animation](https://github.com/jud-ahmed/jud-ahmedblob/output/github-contribution-grid-snake-white.svg)
 
+<p align="center">
+  <span style="color:red; font-size:24px;">
+    <blink> 🔥 I'm a QA Tester & Developer! 🔥 </blink>
+  </span>
+</p>
 
 

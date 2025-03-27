@@ -1,26 +1,8 @@
-name: Generate Snake Animation
-
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
-jobs:
-  generate_snake:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Generate Snake
-      uses: Platane/snk@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Upload Snake Animation
-      uses: actions/upload-artifact@v3
-      with:
-        name: snake-animation
-        path: path/to/generated/snake.gif
+- name: Generate snake animation
+  uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: my-snake/my-snake.svg  # Changed output path
+<div align="center">
+  <img src="my-snake/my-snake.svg" alt="My Snake Animation" />
+</div>

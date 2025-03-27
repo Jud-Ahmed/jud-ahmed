@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4" width="150" alt="Your GitHub Profile Picture" />
+  <img src="https://avatars.githubusercontent.com/u/Jud-Ahmed?v=4" width="150" alt="Your GitHub Profile Picture" />
 </div>
 
 

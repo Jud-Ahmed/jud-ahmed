@@ -51,7 +51,7 @@ I'm a Software Tester learning Cybersecurity and Ethical Hacking.
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="my-snake/my-snake.svg" alt="My Snake Animation" />
+<img src="dist/my-snake.svg" alt="My Snake Animation" /> 
 </div>
 <p align="center">
   <span style="color:red; font-size:24px;">

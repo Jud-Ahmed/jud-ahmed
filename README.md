@@ -2,6 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/jud-ahmed?v=4" width="150" alt="Your GitHub Profile Picture" />
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
 <div align="center">
   <h1>Hello, I'm Jud! 👋</h1>

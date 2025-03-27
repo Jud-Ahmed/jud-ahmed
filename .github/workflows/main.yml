@@ -23,7 +23,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: my-snake/my-snake.svg  # Changed output path
+          outputs: dist/my-snake.svg  # Changed output path to dist/my-snake.svg
 
       - name: Push changes to GitHub
         uses: ad-m/github-push-action@master

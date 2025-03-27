@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4" width="150" alt="Your GitHub Profile Picture" />
+</div>
+
+
+<div align="center">
   <h1>Hello, I'm Jud! 👋</h1>
 </div>
 

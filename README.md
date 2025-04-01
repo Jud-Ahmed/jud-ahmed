@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/jud-ahmed?v=4" width="150" alt="Your GitHub Profile Picture" />
+  <img src="https://avatars.githubusercontent.com/u/jud-ahmed?v=4" width="150" alt="jud-ahmed" />
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
